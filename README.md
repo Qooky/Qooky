@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Steven Susanto</h1>
-<h3 align="center">A developer with a passion is Machine Learning and Data Analytics</h3>
+<h3 align="center">I'm a software developer with interests in Machine Learning and Data Analytics</h3>
 
 - 🌱 I’m currently learning **Nuxt and Tensorflow 2 for deep learning**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
